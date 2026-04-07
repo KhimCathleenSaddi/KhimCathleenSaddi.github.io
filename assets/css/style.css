@@ -9,7 +9,7 @@ body {
     display: flex;
     line-height: 1.6;
     color: #333;
-    background-color: #f8f9fa;
+    background-color: #F1D1D1;
 }
 
 /* ==========================================
@@ -21,7 +21,7 @@ header {
     position: fixed;
     left: 0;
     top: 0;
-    background: #2c3e50;
+    background: #435D6C;
     color: white;
     padding: 40px 20px;
     text-align: center;
