@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Khim Cathleen Saddi</title>
     <style>
+        /* 1. Basic Reset */
+        * { box-sizing: border-box; }  
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
@@ -13,46 +15,70 @@
             margin: 0 auto;
             padding: 20px;
         }
+        
+        /* 2. Fixed Sidebar Header */
         header {
+            width: 300px;         /* Width of your sidebar */
+            height: 100vh;        /* Full viewport height */
+            position: fixed;      /* Locks it in place */
+            left: 0;
+            top: 0;
+            background: #2c3e50;  /* Dark professional background */
+            color: white;
+            padding: 40px 20px;
             text-align: center;
-            padding: 40px 0;
-            background: #f4f4f4;
-            border-radius: 10px;
-            margin-bottom: 30px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
+
         .profile-photo {
-            width: 180px;
-            height: 180px;
+            width: 150px;
+            height: 150px;
             border-radius: 50%;
+            border: 3px solid rgba(255,255,255,0.2);
+            margin-bottom: 20px;
             object-fit: cover;
-            border: 4px solid #fff;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
         }
-        section {
-            margin-bottom: 40px;
+
+        header h1 { font-size: 1.5rem; margin: 10px 0; }
+        header p { font-size: 0.9rem; color: #bdc3c7; }
+        header a { color: #3498db; text-decoration: none; }        
+        
+        /* 3. Main Scrolling Content */
+        main {
+            margin-left: 300px;    /* Matches sidebar width to prevent overlap */
+            padding: 40px 60px;
+            width: 100%;
         }
-        h2 {
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 10px;
-            color: #2c3e50;
+
+        section { margin-bottom: 50px; max-width: 800px; }
+        h2 { 
+            border-bottom: 2px solid #3498db; 
+            padding-bottom: 10px; 
+            color: #2c3e50; 
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 1.2rem;
         }
-        .item {
-            margin-bottom: 15px;
-        }
-        .date {
-            font-weight: bold;
-            color: #7f8c8d;
-            display: inline-block;
-            width: 120px;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 10px;
-            padding-left: 10px;
-            border-left: 3px solid #eee;
+
+        .item { margin-bottom: 15px; }
+        .date { font-weight: bold; color: #7f8c8d; margin-right: 10px; }
+        ul { list-style: none; padding: 0; }
+        li { margin-bottom: 15px; padding-left: 15px; border-left: 3px solid #3498db; }
+
+        /* 4. Responsive Design (For Phones) */
+        @media (max-width: 768px) {
+            body { flex-direction: column; }
+            header { 
+                position: relative; 
+                width: 100%; 
+                height: auto; 
+            }
+            main { 
+                margin-left: 0; 
+                padding: 20px; 
+            }
         }
     </style>
 </head>
