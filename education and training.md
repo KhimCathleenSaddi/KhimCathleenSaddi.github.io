@@ -1,3 +1,8 @@
+---
+layout: default
+title: My Education and Training
+---
+
 ## Education
 
 2022 — Present
