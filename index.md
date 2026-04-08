@@ -9,21 +9,21 @@ title: Home
 ### Research Gallery
 <div class="animated-collage">
   <div class="collage-item">
-    <img src="/Images/collage/SDG-Goal-06.png" width ="300" alt="Lab Work">
+    <img src="/Images/collage/SDG-Goal-06.jpg" width ="300" alt="Lab Work">
   </div>
   <div class="collage-item">
-    <img src="/Images/collage/SDG-Goal-09.png" alt="Conference">
+    <img src="/Images/collage/SDG-Goal-09.jpg" alt="Conference">
   </div>
   <div class="collage-item">
-    <img src="/Images/collage/SDG-Goal-11.png" alt="Conference">
+    <img src="/Images/collage/SDG-Goal-11.jpg" alt="Conference">
   </div>
   <div class="collage-item">
-    <img src="/Images/collage/SDG-Goal-13.png" alt="Conference">
+    <img src="/Images/collage/SDG-Goal-13.jpg" alt="Conference">
   </div>
   <div class="collage-item">
-    <img src="/Images/collage/SDG-Goal-14.png" alt="Conference">
+    <img src="/Images/collage/SDG-Goal-14.jpg" alt="Conference">
   </div>
   <div class="collage-item">
-    <img src="/Images/collage/SDG-Goal-17.png" alt="Conference">
+    <img src="/Images/collage/SDG-Goal-17.jpg" alt="Conference">
   </div>
 </div>
