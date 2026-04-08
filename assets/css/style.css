@@ -145,6 +145,17 @@ h3 {
    color: #555;
 }
 
+/* Normal state: No underline */
+a {
+    text-decoration: none;
+    transition: color 0.3s ease; /* Smooth color transition */
+}
+
+/* Hover state: Underline appears or color changes */
+a:hover {
+    text-decoration: underline;
+    color: #3498db; /* Changes color to your accent blue when hovering */
+}
 
 
 /* Academic Item Styling */
