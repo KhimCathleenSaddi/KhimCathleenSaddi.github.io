@@ -9,7 +9,7 @@ title: Home
 ### Research Gallery
 <div class="animated-collage">
   <div class="collage-item">
-    <img src="/Images/collage/SDG-Goal-06.jpg" width ="300" alt="Lab Work">
+    <img src="/Images/collage/SDG-Goal-06.jpg" alt="Lab Work">
   </div>
   <div class="collage-item">
     <img src="/Images/collage/SDG-Goal-09.jpg" alt="Conference">
