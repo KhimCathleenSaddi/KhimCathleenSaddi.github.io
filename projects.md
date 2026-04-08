@@ -4,7 +4,7 @@ title: My Research Projects
 ---
 
 ## Research Projects
-
+---
 * **2022-2026 | PhD Researcher**
   ### [RiverWatch: a citizen science approach to river pollution monitoring](https://sites.google.com/view/riverwatch/home-page/)
 {:target="_blank"}
