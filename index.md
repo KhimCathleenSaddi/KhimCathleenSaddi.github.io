@@ -10,7 +10,7 @@ title: Home
 </div>
 
 
-### Research Gallery
+### Research themes
 <div class="animated-collage">
   <div class="collage-item">
     <img src="/Images/collage/SDG-Goal-06.jpg" alt="SDG 6">
