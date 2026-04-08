@@ -24,12 +24,13 @@ title: My Research Projects
 * **2021 - 2022 | Project Lead**
   ### [Project DIGDI (Disaster-Resilient and Self Sustaining House for Community Growth and Resilience Development Innovations)](https://ccar2.wordpress.com/2021/09/03/project-digdi-towards-resilient-community-development/)
 {:target="_blank"}
-  A transdisciplinary project that aims to create a self-sustaining, Disaster-Resilient house made of Recycled Coarse Aggregate Concrete (RCAC) with clean water system, built-in rainwater catchment facility, aquaponics    system, solar-powered radio communication system, domestic liquid waste treatment system, mobile cloud technology and communal cooking area with a water heater. Funding acquired from the international donors of Ateneo de Naga University (approx. 30k euros)
+  A transdisciplinary project that aims to create a self-sustaining, Disaster-Resilient house made of Recycled Coarse Aggregate Concrete (RCAC) with clean water system, built-in rainwater catchment facility, aquaponics    system, solar-powered radio communication system, domestic liquid waste treatment system, mobile cloud technology and communal cooking area with a water heater. Funding acquired from the international donors of Ateneo de Naga University (approx. 30k euros).
+{: .custom-list}
 
 ---
 
 * **2020 | Research Graduate Intern**
-    ### [CCARPH (Coastal Cities At Risk in the Philippines](https://ccar2.wordpress.com/)
+  ### [CCARPH (Coastal Cities At Risk in the Philippines](https://ccar2.wordpress.com/)
 {:target="_blank"}
   Assisted in project initiatives through the implementation of the Solar Clean Water System as post-typhoon response in various communities in Camarines Sur, Bicol, and the publication of a book promoting community resilience, and the role of mangroves in climate change adaptation and mitigation entitled "Mari for the Coasts".
-
+{: .custom-list}
