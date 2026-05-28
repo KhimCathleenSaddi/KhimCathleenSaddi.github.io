@@ -151,9 +151,10 @@ a:hover { text-decoration: underline; color: #3498db; }
 /* ==========================================
    4. COLLAGE SECTION (FIXED 2x3 GRID)
    ========================================== */
-.animated-collage {
-    display: grid !important;
-    grid-template-columns: repeat(3, 1fr) !important; /* 3 columns */
+.themes-collage {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
     gap: 15px !important;
     max-width: 900px;
     margin: 30px 0;
