@@ -1,11 +1,11 @@
 :root {
   color-scheme: light;
-  --ink: #20342e;
-  --muted: #64736c;
-  --green: #2f6553;
-  --paper: #f3eadb;
-  --line: #e4e6df;
-  --soft-green: #eef2ec;
+  --ink: #17364a;
+  --muted: #5d7482;
+  --green: #18778a;
+  --paper: #f4fafb;
+  --line: #d7e8ec;
+  --soft-green: #e6f3f4;
 }
 
 * {
@@ -34,11 +34,11 @@ a {
 }
 
 a:hover {
-  color: #1b4637;
+  color: #105666;
 }
 
 a:focus-visible {
-  outline: 3px solid #89a996;
+  outline: 3px solid #82c8cf;
   outline-offset: 4px;
 }
 
@@ -67,8 +67,8 @@ a:focus-visible {
   gap: 0.5rem;
   min-height: 76px;
   padding: 0.8rem max(6vw, calc((100vw - 1120px) / 2));
-  border-bottom: 1px solid rgba(32, 52, 46, 0.08);
-  background: rgba(251, 250, 246, 0.96);
+  border-bottom: 1px solid rgba(23, 54, 74, 0.08);
+  background: rgba(248, 253, 253, 0.96);
   backdrop-filter: blur(12px);
 }
 
@@ -82,7 +82,7 @@ a:focus-visible {
 }
 
 .site-name span {
-  color: #8d9f72;
+  color: #58aeb8;
 }
 
 .site-nav {
@@ -183,7 +183,7 @@ main {
 }
 
 .button-primary:hover {
-  background: #244e40;
+  background: #115e6d;
   color: white;
 }
 
@@ -376,7 +376,7 @@ main {
 
 .button-light:hover {
   background: white;
-  color: #1b4637;
+  color: #105666;
 }
 
 .site-footer {
