@@ -151,6 +151,19 @@ main {
   margin-top: 2rem;
 }
 
+.hero-memberships {
+  margin-top: 2rem;
+}
+
+.hero-memberships .eyebrow {
+  margin-bottom: 0.25rem;
+}
+
+.hero-memberships > p:not(.eyebrow) {
+  margin: 0 0 0.35rem;
+  color: var(--muted);
+}
+
 .button {
   display: inline-flex;
   align-items: center;

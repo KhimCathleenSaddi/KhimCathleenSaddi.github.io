@@ -16,6 +16,11 @@ title: Home
       <a class="button button-primary" href="#research">Explore my research</a>
       <a class="text-link" href="mailto:khimcathleen.saddi@unina.it">Get in touch <span aria-hidden="true">↗</span></a>
     </div>
+    <div class="hero-memberships" aria-label="Scientific collaboration and community engagement">
+      <p class="eyebrow">Scientific Collaboration and Community Engagement</p>
+      <p>ECSA · IAHS · MOXXI</p>
+      <a class="text-link" href="{{ site.baseurl }}/memberships">Membership details <span aria-hidden="true">↗</span></a>
+    </div>
   </div>
   <div class="hero-image-wrap">
     <img class="hero-image" src="{{ site.baseurl }}/Images/profile.jpg" alt="Portrait of Khim Cathleen Saddi">
