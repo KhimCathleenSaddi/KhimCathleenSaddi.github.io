@@ -10,7 +10,7 @@ Edit the Markdown source files in the repository root:
 - `projects.md` contains project descriptions.
 - `publications.md` contains the publication list.
 - `educationandtraining.md` contains education and training details.
-- `memberships.md` contains professional membership details.
+- `memberships.md` contains the Communities and Collaboration page, including professional memberships and working-group involvement.
 
 The homepage uses HTML tags to preserve its section layout and styling. You can edit the text inside those tags while leaving the tags and their attributes in place. The other pages use regular Markdown; use `#` for headings, `-` for list items, and `**text**` for bold text.
 
