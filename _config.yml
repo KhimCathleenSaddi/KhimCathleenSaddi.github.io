@@ -1,8 +1,8 @@
 # ==========================================
 # Site Settings
 # ==========================================
-title: "My Digital Garden"
-description: "A place where I share my projects and thoughts."
+title: "Khim Cathleen Saddi | Research Portfolio"
+description: "Research portfolio of Khim Cathleen Saddi, focused on river monitoring, remote sensing, citizen science, and sustainable development."
 url: "https://KhimCathleenSaddi.github.io" # Your site's URL
 baseurl: "" # Keep as "" unless your site is at username.github.io/project-name/
 
@@ -30,6 +30,7 @@ highlighter: rouge # For code snippet coloring
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # ==========================================
 # Exclude Files
