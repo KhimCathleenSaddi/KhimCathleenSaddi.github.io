@@ -3,7 +3,7 @@
   --ink: #20342e;
   --muted: #64736c;
   --green: #2f6553;
-  --paper: #fbfaf6;
+  --paper: #f3eadb;
   --line: #e4e6df;
   --soft-green: #eef2ec;
 }
@@ -62,9 +62,9 @@ a:focus-visible {
   z-index: 5;
   top: 0;
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 2rem;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 0.5rem;
   min-height: 76px;
   padding: 0.8rem max(6vw, calc((100vw - 1120px) / 2));
   border-bottom: 1px solid rgba(32, 52, 46, 0.08);
@@ -88,7 +88,7 @@ a:focus-visible {
 .site-nav {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-end;
+  justify-content: flex-start;
   gap: 0.4rem 1.5rem;
 }
 
@@ -384,7 +384,6 @@ main {
 
 @media (max-width: 760px) {
   .site-header {
-    position: static;
     align-items: flex-start;
     flex-direction: column;
     gap: 0.5rem;
@@ -423,14 +422,13 @@ main {
 
   .hero-image-wrap {
     justify-self: start;
-    width: min(72%, 280px);
+    width: min(72%, 240px);
   }
 
   .page-section {
     padding: 4rem 0;
   }
 
-  .sdg-grid,
   .education-summary {
     grid-template-columns: 1fr;
   }
