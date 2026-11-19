@@ -131,7 +131,6 @@ title: Home
 
 <section class="contact-section" id="contact" aria-labelledby="contact-title">
   <p class="eyebrow">Contact</p>
-  <h2 id="contact-title">Let’s make research matter.</h2>
-  <p>For research collaborations, talks, or questions about my work, feel free to reach out.</p>
+  <h2 id="contact-title">Let’s make more research for and with the people!</h2>
   <a class="button button-light" href="mailto:khimcathleen.saddi@unina.it">khimcathleen.saddi@unina.it</a>
 </section>
