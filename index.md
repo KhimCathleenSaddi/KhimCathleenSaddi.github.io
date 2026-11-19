@@ -22,14 +22,6 @@ title: Home
     <p class="image-note">Science shaped by people and place.</p>
   </div>
 </section>
-<section class="page-section research-section" id="network" aria-labelledby="research-title">
-    <div class="hero-memberships" aria-label="Communities and collaboration">
-      <p class="eyebrow">Communities and Collaboration</p>
-      <p>ECSA · IAHS · IAHS MOXXI Working Group</p>
-      <a class="text-link" href="{{ site.baseurl }}/memberships">View communities and collaboration <span aria-hidden="true">↗</span></a>
-    </div>
-
-</section>
 
 <section class="page-section research-section" id="research" aria-labelledby="research-title">
   <div class="section-heading">
@@ -122,6 +114,15 @@ title: Home
     <p><strong>Master of Engineering, Civil Engineering</strong><br>Ateneo de Davao University, Philippines · 2017–2019</p>
     <a class="text-link" href="{{ site.baseurl }}/educationandtraining">Education and training <span aria-hidden="true">↗</span></a>
   </div>
+</section>
+
+<section class="page-section research-section" id="network" aria-labelledby="research-title">
+    <div class="hero-memberships" aria-label="Communities and collaboration">
+      <p class="eyebrow">Communities and Collaboration</p>
+      <p>ECSA · IAHS · IAHS MOXXI Working Group</p>
+      <a class="text-link" href="{{ site.baseurl }}/memberships">View communities and collaboration <span aria-hidden="true">↗</span></a>
+    </div>
+
 </section>
 
 <section class="contact-section" id="contact" aria-labelledby="contact-title">
