@@ -124,7 +124,7 @@ title: Home
   <ul class="network-logos" aria-label="Professional communities and research networks">
     <li><img src="{{ site.baseurl }}/Images/network/EGU.png" alt="European Geosciences Union"></li>
     <li><img src="{{ site.baseurl }}/Images/network/ECSA.png" alt="European Citizen Science Association"></li>
-    <li><img src="{{ site.baseurl }}/Images/network/MOXXI.jpg" alt="IAHS Measurements and Observations in the XXI Century Working Group"></li>
+    <li><img src="{{ site.baseurl }}/Images/network/MOXXI.png" alt="IAHS Measurements and Observations in the XXI Century Working Group"></li>
   </ul>
   <a class="text-link" href="{{ site.baseurl }}/memberships">View communities and collaboration <span aria-hidden="true">↗</span></a>
 </section>
