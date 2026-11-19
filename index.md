@@ -8,9 +8,9 @@ title: Home
     <p class="eyebrow">Research Fellow · Civil Engineer · Philippines</p>
     <h1 id="hero-title">Research for healthier rivers and more resilient communities.</h1>
     <p class="hero-intro">
-      I’m Khim Cathleen Saddi, a transdisciplinary researcher working at the intersection
-      of environmental monitoring, remote sensing, artificial intelligence, and citizen science.
-      I turn collaborative research into practical insights for a more sustainable future.
+      I’m Khim, a transdisciplinary researcher and educator bridging hydrological monitoring, 
+      AI, and citizen science towards societal transformations—turning collaborative research
+      into practical decision support tools for a more sustainable future.
     </p>
     <div class="hero-links">
       <a class="button button-primary" href="#research">Explore my research</a>
