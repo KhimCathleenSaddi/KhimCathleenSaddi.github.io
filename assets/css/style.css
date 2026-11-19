@@ -244,10 +244,11 @@ main {
 }
 
 .network-logos {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  display: flex;
   align-items: center;
-  gap: clamp(2rem, 7vw, 6rem);
+  justify-content: space-between;
+  gap: clamp(1.5rem, 5vw, 4rem);
+  overflow-x: auto;
   margin: 0 0 2rem;
   padding: 0;
   list-style: none;
@@ -255,15 +256,15 @@ main {
 
 .network-logos li {
   display: flex;
+  flex: 0 0 auto;
   align-items: center;
   justify-content: center;
-  min-width: 0;
 }
 
 .network-logos img {
   display: block;
-  width: 100%;
-  max-height: 120px;
+  width: auto;
+  height: 100px;
   object-fit: contain;
 }
 
@@ -468,14 +469,6 @@ main {
 
   .education-summary {
     grid-template-columns: 1fr;
-  }
-
-  .network-logos {
-    gap: 1rem;
-  }
-
-  .network-logos img {
-    max-height: 72px;
   }
 
   .feature-card {
