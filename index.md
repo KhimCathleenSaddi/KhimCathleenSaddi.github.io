@@ -6,7 +6,7 @@ title: Home
 <section class="hero" id="about" aria-labelledby="hero-title">
   <div class="hero-copy">
     <p class="eyebrow">Research Fellow · Civil Engineer · Philippines</p>
-    <h1 id="hero-title">Research for healthier rivers and more resilient communities.</h1>
+    <h1 id="hero-title">Research for healthier waters and empowered communities.</h1>
     <p class="hero-intro">
       I’m Khim, a transdisciplinary researcher and educator bridging hydrological monitoring, 
       AI, and citizen science towards societal transformations—turning collaborative research
@@ -16,16 +16,19 @@ title: Home
       <a class="button button-primary" href="#research">Explore my research</a>
       <a class="text-link" href="mailto:khimcathleen.saddi@unina.it">Get in touch <span aria-hidden="true">↗</span></a>
     </div>
-    <div class="hero-memberships" aria-label="Communities and collaboration">
-      <p class="eyebrow">Communities and Collaboration</p>
-      <p>ECSA · IAHS · IAHS MOXXI Working Group</p>
-      <a class="text-link" href="{{ site.baseurl }}/memberships">View communities and collaboration <span aria-hidden="true">↗</span></a>
-    </div>
   </div>
   <div class="hero-image-wrap">
     <img class="hero-image" src="{{ site.baseurl }}/Images/profile.jpg" alt="Portrait of Khim Cathleen Saddi">
     <p class="image-note">Science shaped by people and place.</p>
   </div>
+</section>
+<section class="page-section research-section" id="network" aria-labelledby="research-title">
+    <div class="hero-memberships" aria-label="Communities and collaboration">
+      <p class="eyebrow">Communities and Collaboration</p>
+      <p>ECSA · IAHS · IAHS MOXXI Working Group</p>
+      <a class="text-link" href="{{ site.baseurl }}/memberships">View communities and collaboration <span aria-hidden="true">↗</span></a>
+    </div>
+
 </section>
 
 <section class="page-section research-section" id="research" aria-labelledby="research-title">
