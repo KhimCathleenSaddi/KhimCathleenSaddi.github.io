@@ -116,13 +116,17 @@ title: Home
   </div>
 </section>
 
-<section class="page-section research-section" id="network" aria-labelledby="research-title">
-    <div class="hero-memberships" aria-label="Communities and collaboration">
-      <p class="eyebrow">Communities and Collaboration</p>
-      <p>ECSA · IAHS · IAHS MOXXI Working Group</p>
-      <a class="text-link" href="{{ site.baseurl }}/memberships">View communities and collaboration <span aria-hidden="true">↗</span></a>
-    </div>
-
+<section class="page-section network-section" id="network" aria-labelledby="network-title">
+  <div class="section-heading">
+    <p class="eyebrow">Communities and collaboration</p>
+    <h2 id="network-title">Connected through shared research</h2>
+  </div>
+  <ul class="network-logos" aria-label="Professional communities and research networks">
+    <li><img src="{{ site.baseurl }}/Images/network/EGU.png" alt="European Geosciences Union"></li>
+    <li><img src="{{ site.baseurl }}/Images/network/ECSA.png" alt="European Citizen Science Association"></li>
+    <li><img src="{{ site.baseurl }}/Images/network/MOXXI.jpg" alt="IAHS Measurements and Observations in the XXI Century Working Group"></li>
+  </ul>
+  <a class="text-link" href="{{ site.baseurl }}/memberships">View communities and collaboration <span aria-hidden="true">↗</span></a>
 </section>
 
 <section class="contact-section" id="contact" aria-labelledby="contact-title">

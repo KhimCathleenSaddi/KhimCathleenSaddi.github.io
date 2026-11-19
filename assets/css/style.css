@@ -243,6 +243,30 @@ main {
   color: var(--muted);
 }
 
+.network-logos {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: center;
+  gap: clamp(2rem, 7vw, 6rem);
+  margin: 0 0 2rem;
+  padding: 0;
+  list-style: none;
+}
+
+.network-logos li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+}
+
+.network-logos img {
+  display: block;
+  width: 100%;
+  max-height: 120px;
+  object-fit: contain;
+}
+
 .sdg-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -444,6 +468,14 @@ main {
 
   .education-summary {
     grid-template-columns: 1fr;
+  }
+
+  .network-logos {
+    gap: 1rem;
+  }
+
+  .network-logos img {
+    max-height: 72px;
   }
 
   .feature-card {
